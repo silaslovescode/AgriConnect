@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 20/06/2019 00:33
+  	Creation date: 07/06/2019 04:13
   	*/
 
 @font-face {
@@ -25,7 +25,7 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
-  font-style: normal;
+        font-style: normal;
   font-weight: normal;
   font-variant: normal;
   line-height: 1;
@@ -37,13 +37,13 @@
   font-smoothing: antialiased;
 }
 
-.flaticon-placeholder:before { content: "\f100"; }
-.flaticon-call:before { content: "\f101"; }
-.flaticon-email:before { content: "\f102"; }
-.flaticon-oil-platform:before { content: "\f103"; }
-.flaticon-idea:before { content: "\f104"; }
-.flaticon-engineer:before { content: "\f105"; }
-.flaticon-crane:before { content: "\f106"; }
-.flaticon-plumb-bob:before { content: "\f107"; }
-.flaticon-compass:before { content: "\f108"; }
-.flaticon-planning:before { content: "\f109"; }
+.flaticon-mortarboard:before { content: "\f100"; }
+.flaticon-school-material:before { content: "\f101"; }
+.flaticon-library:before { content: "\f102"; }
+.flaticon-diploma:before { content: "\f103"; }
+.flaticon-book:before { content: "\f104"; }
+.flaticon-university:before { content: "\f105"; }
+.flaticon-ink:before { content: "\f106"; }
+.flaticon-books:before { content: "\f107"; }
+.flaticon-blackboard:before { content: "\f108"; }
+.flaticon-books-1:before { content: "\f109"; }
